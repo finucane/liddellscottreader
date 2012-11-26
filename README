@@ -1,0 +1,5 @@
+This is some ancient code for an OSX command line tool i wrote to convert the perseus liddel scott data into
+a some files for use in an OSX application i wrote for fun (and later an iphone app).
+
+the files are a big file of html marked up entries (the entire dictionary) and an index into that
+marked up data.

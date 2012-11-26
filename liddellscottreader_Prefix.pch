@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'liddellscottreader' target in the 'liddellscottreader' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
